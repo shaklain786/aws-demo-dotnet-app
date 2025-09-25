@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "m35R839FXaJmOdWhUFNuQdXILnx0VpNgBNTxLQ9hv/U=",
+  "Source": "aws-cicd-demo",
+  "BasePath": "_content/aws-cicd-demo",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
