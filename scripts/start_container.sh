@@ -5,7 +5,7 @@ set -e
 DOCKER_USERNAME="iamshaklain"
 DOCKER_PASSWORD="8583979684"
 
-# Login to Docker Hub to get the image
+# Login to Docker Hub 
 echo "$DOCKER_PASSWORD" | docker login -u "$DOCKER_USERNAME" --password-stdin
 
 # Pull private image
